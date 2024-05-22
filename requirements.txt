@@ -5,3 +5,4 @@ geojson
 plotly_express
 streamlit_folium
 numpy
+openpyxl
